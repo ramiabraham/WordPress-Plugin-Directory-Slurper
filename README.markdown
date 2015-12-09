@@ -47,7 +47,7 @@ changed since. Only those changed plugins are updated after the initial sync.
 
 ### How much disk space do I need? ###
 
-As of late 2013, it takes up about 12GB.
+As of December 09, 2015, it takes up about `22GB`, at revision `1303145`.
 
 ### Something went wrong, how do I do a partial update? ###
 
